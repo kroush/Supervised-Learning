@@ -62,4 +62,4 @@ Random Forest and Gradient Boosting are near ties, using minimal computer power,
 * Continue to work feature selection to remove any bias or variance of result statistics
 * Investigate any new variables - interactions of multiple features or powers of existing features
 * Other datasets to bring in that would help prediction
-* Create  functions to automate running each type of model and stats printed at each time
+* Create  functions to automate running each type of model and stats printed each time
