@@ -1,4 +1,4 @@
-# Thinkful-Capstones
+# Thinkful-Capstones-and-Projects
 Capstone projects for Thinkful Data Science Flex Bootcamp - 2020
 
 ## Supervised Learning - Predicting the Temperatures of Superconductors
@@ -63,3 +63,15 @@ Random Forest and Gradient Boosting are near ties, using minimal computer power,
 * Investigate any new variables - interactions of multiple features or powers of existing features
 * Other datasets to bring in that would help prediction
 * Create  functions to automate running each type of model and stats printed each time
+
+## Fashion MNIST - Deep Learning
+
+Using the fashion MNIST dataset, this project works to optimize different ANN models by investigating:
+1. Number of layers
+2. Activation functions of layers
+3. Number of neurons of layers
+4. Different batch sizes during training
+
+Best Model - 3 layers, Tanh Activation, 128 neurons/ layer, Mini Batch Size of 8
+ Test Score: 0.8848999738693237
+ Training Score:0.9212499856948853
