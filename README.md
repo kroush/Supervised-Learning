@@ -73,5 +73,5 @@ Using the fashion MNIST dataset, this project works to optimize different ANN mo
 4. Different batch sizes during training
 
 Best Model - 3 layers, Tanh Activation, 128 neurons/ layer, Mini Batch Size of 8
- Test Score: 0.8848999738693237
- Training Score:0.9212499856948853
+* Test Score: 0.8849
+* Training Score: 0.9212
